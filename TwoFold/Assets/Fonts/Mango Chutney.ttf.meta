@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d24bad648c62b8c4d8d0729961a4585c
+guid: 5c69809378df30a409d015c8c3318701
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -11,7 +11,8 @@ TrueTypeFontImporter:
   fontName: Mango Chutney
   fontNames:
   - Mango Chutney
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d24bad648c62b8c4d8d0729961a4585c, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
