@@ -1439,7 +1439,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1423363600}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1423363607}
   variables: []
   description: 
   stepPause: 0
@@ -1632,7 +1633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: -insert dialogue text-
+  storyText: '"Why''d winter break have to end so soon?"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
